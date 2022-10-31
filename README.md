@@ -21,15 +21,15 @@ multipass exec k8s --name --cat teste.txt</p>
 <p>multipass unmount k8s</p>
 
 <h1>Deletar</h1>
-<p>multipass delete k8s<br>
+<p>multipass delete k8s <br>
 multipass purge</p>
 
 <h1>Recuperar</h1>
 <p>multipass recover k8s</p>
 
 <h1>Iniciar e Parar</h1>
-<p>multipass start k8s</p><br>
-<p>multipass stop k8s</p>
+<p>multipass start k8s<br>
+multipass stop k8s</p>
 
 <h1>Detalhes VM</h1>
 <p>multipass info k8s</p>
